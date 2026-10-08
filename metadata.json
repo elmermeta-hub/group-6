@@ -1,0 +1,8 @@
+{
+  "name": "NutriSafe ToxiScan · Kinetic Pulse",
+  "description": "Athletic food safety, pre and post exercise nutrition intelligence, and built-in Model Context Protocol (MCP) server.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
